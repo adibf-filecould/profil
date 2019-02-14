@@ -1,0 +1,121 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #ffc60b;
+  font-size: 5.625rem;
+margin-top: 0;
+font-family: 'Sacramento',cursive;
+}
+h2{
+  color:  #ffc60b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color:  #ffc60b;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+hr{
+  background-color: #ffc60b;
+  border-style:none;
+  border-bottom: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 4px;
+}
+a{
+  color: #ffc60b;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+a:hover{
+  color: powderblue;
+}
+.imgcode{
+  width: 25%;
+}
+.tableed{
+  margin:  auto;
+  font-family: sans-serif;
+  color: #232323;
+  border-collapse: collapse;
+}
+.tableed, th, td {
+  border: 1px solid #999;
+  padding: 8px 20px;
+}
+
+.top-container{
+  background-color: #f1f3c8;
+  padding-top: 150px;
+}
+.middle-container{
+  background-color: #f1f3c8;
+
+}
+.education{
+  position: relative;
+  background-color:#f1f3c8;
+  align-items: center;
+}
+.bottom-container{
+  background-color: #f1f3c8;
+  padding: 50px 0 20px;
+
+}
+.contact-massage{
+  width: 35%;
+  margin: 40px auto 60px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 225px;
+  bottom: 250px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+.pro{
+  text-decoration: underline;
+}
+.btn {
+  	-moz-box-shadow: 0px 0px 0px 0px #3dc21b;
+  	-webkit-box-shadow: 0px 0px 0px 0px #3dc21b;
+  	box-shadow: 0px 0px 0px 0px #3dc21b;
+  	background-color:#a4c745;
+  	-moz-border-radius:28px;
+  	-webkit-border-radius:28px;
+  	border-radius:28px;
+  	border:1px solid #90c93a;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family: 'Montserrat', sans-serif;
+  	font-size:17px;
+  	padding:16px 31px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 0px #b1c757;
+  }
+  .btn:hover {
+  	background-color:#9dd653;
+  }
+  ..btn:active {
+  	position:relative;
+  	top:1px;
+  }
+  .copyright{
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
